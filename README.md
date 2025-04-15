@@ -53,6 +53,16 @@ Le projet est organisé de façon modulaire :
     ```
     flutter run
     ```
+## Tester l’accéléromètre dans l’émulateur
+
+Pour simuler des mouvements et tester l’accéléromètre dans l’application :
+
+1. **Ouvre le menu "Extended controls"**  
+   (Cliquer sur les trois petits points `...` à droite de l’émulateur Android Studio)
+
+2. **Aller dans l’onglet "Sensors"**
+
+3. **Dans la section "Accelerometer"**, modifier les valeurs X, Y ou Z 
 
 ## Dépendances principales
 
