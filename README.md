@@ -57,7 +57,7 @@ Le projet est organisé de façon modulaire :
 
 Pour simuler des mouvements et tester l’accéléromètre dans l’application :
 
-1. **Ouvre le menu "Extended controls"**  
+1. **Ouvrir le menu "Extended controls"**  
    (Cliquer sur les trois petits points `...` à droite de l’émulateur Android Studio)
 
 2. **Aller dans l’onglet "Sensors"**
